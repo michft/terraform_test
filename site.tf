@@ -1,5 +1,3 @@
-## Ouch, read docs wrong with local and remote exec, hope remote exec is correct / wanted provisioner.
-
 ## Should be in separate files but required in single file setup.
 variable "bucket_name" {
   description = "the command line bucketname"
